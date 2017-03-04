@@ -1,6 +1,5 @@
-## Caching the inverse of a matrix
-### The two functions below are used to create a special object that stores a 
-### matrix and caches its inverse
+## The two functions below assign a matrix to an object 
+## and caches its inverse
 
 
 ## makeCacheMatrix: This function creates a special "matrix" object that can cache its inverse.
